@@ -112,8 +112,7 @@ MemoryStruct getAPIData()
 
         char *lat="32.93";
         char *lon="-96.87";
-        char *apiKey="938f1f75c78441cd9db12ad01c213146";
-
+        char *apiKey="xxx";
         char url[250];
 
         snprintf(url, 250, 
