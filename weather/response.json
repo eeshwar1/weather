@@ -1,0 +1,15 @@
+ {
+    "coord":{"lon":-96.87,"lat":32.93},
+    "weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],
+    "base":"stations",
+    "main":{"temp":284.34,"feels_like":283.21,"temp_min":283.25,"temp_max":285.55,"pressure":1017,"humidity":65,"sea_level":1017,"grnd_level":997},
+    "visibility":10000,
+    "wind":{"speed":4.12,"deg":290,"gust":8.75},
+    "clouds":{"all":20},
+    "dt":1738338446,
+    "sys":{"type":2,"id":2011151,"country":"US","sunrise":1738329787,"sunset":1738367923},
+    "timezone":-21600,
+    "id":4690198,
+    "name":"Farmers Branch",
+    "cod":200
+}
